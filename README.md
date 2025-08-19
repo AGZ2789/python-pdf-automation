@@ -17,12 +17,11 @@ It uses two popular libraries:
 ## 📂 Project Structure
 pdf-automation/
 
-* create-pdf.py # generates a simple PDF
-* create-pdf.py # generates a simple PDF
-* pdf-automation-1.py # extracts text from an existing PDF
-* meetingminutes.pdf # sample PDF file
-* requirements.txt # Python dependencies
-* README.md # project documentation
+* create-pdf.py (generates a simple PDF)
+* pdf-automation-1.py (extracts text from an existing PDF)
+* meetingminutes.pdf (sample PDF file)
+* requirements.txt (Python dependencies)
+* README.md (project documentation)
 
 ---
 
